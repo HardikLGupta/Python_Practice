@@ -1,8 +1,7 @@
 # Python_Practice
 
-Practice Problems for 
-1. List
-2. String
-3. Dictionary
-4. List Comprehension
-5. Functions
+Practice Problems for basic python
+
+source
+1. https://github.com/jerry-git/learn-python3
+2. https://www.programiz.com/python-programming/list-comprehension
